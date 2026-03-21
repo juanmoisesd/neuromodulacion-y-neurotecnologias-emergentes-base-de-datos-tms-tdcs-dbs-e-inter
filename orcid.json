@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "Repositorio de bases de datos, registros y repositorios sobre neuromodulación y neurotecnologías emergentes: estimulación magnética transcraneal (TMS), estimulación transcraneal por corriente directa (tDCS), estimulación cerebral profunda (DBS), inte",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/neuromodulacion-y-neurotecnologias-emergentes-base-de-datos-tms-tdcs-dbs-e-inter",
+      "year": "2026"
+    }
+  ]
+}
